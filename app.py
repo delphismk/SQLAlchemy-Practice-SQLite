@@ -1,9 +1,9 @@
-# ✅ 問題2：SQLAlchemyとNeo4jによる関係性の可視化
+# ✅ 問題2：SQLAlchemy(SQLite)の練習
 #
 # 🔹目的：
-# ORM（SQLAlchemy）によるオブジェクトDB操作と、グラフDB（Neo4j）による関係性のモデリングを一気に体得する問題
+# ORM（SQLAlchemy）によるオブジェクトDB操作
 # 🔸要件：
-# あなたは社内の社員管理システムのDB設計・実装担当です。以下のような仕様でSQLAlchemyとNeo4jを使って両方の操作系に習熟してください。
+# あなたは社内の社員管理システムのDB設計・実装担当です。以下のような仕様でSQLAlchemyを使って両方の操作系に習熟してください。
 #
 # ✅ A. SQLAlchemyを使って以下のような操作を行え：
 import sqlalchemy
